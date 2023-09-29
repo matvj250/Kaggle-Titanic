@@ -1,0 +1,3 @@
+# Kaggle-Titanic
+These are notebooks of code I wrote for the Kaggle Titanic competition, focused on classification. By the end of this work, I got a test set accuracy of 0.779, putting me in 2835th place (although many people above me in the leaderboard have the same test accuracy).
+The first 3 notebooks, titanic_survival_competition through titanic_survival_competition_3, demonstrate some very early feature analysis I did. Between working on these and making the feature_importance notebooks, I made many more attempts at the competition, but the code is just trying different Sci-Kit Learn models with random search, so I don't think they're worthwhile to include.
